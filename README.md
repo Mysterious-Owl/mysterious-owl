@@ -1,60 +1,32 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi 👋, I'm Tanishq Gupta</h1>
 
-<h3 align="center">Who Am I?</h3>
+<h3 align="center">Senior Data Scientist – AI | GenAI & Risk Analytics</h3>
 
-<h4>I'm an Indian Undergraduate Student, who is trying to learn many new things and is curious about how and why world works.<br> Just learning and experiencing new things every day.</h4>
+<p align="center">
+  <em>5 years building production GenAI in regulated FinTech. Specializing in LLM platforms, open-weight fine-tuning (LoRA / GRPO), OCR pipelines, and fraud engines.</em>
+</p>
 
-- 👯 I’m looking to collaborate on anything that catches my eye
-- 🌱 I’m currently learning GUI
-- 🔭 I'm currently working on IoT and automizing things, like my online college quizzes
-- 👾 I'm now trying to make a game
+---
 
-<br/>
+### 🚀 What I Do
+- 🏗️ **GenAI Platforms:** Building hybrid RAG, Tool-calling agents, and compliance guardrails.
+- 🧠 **Post-Training LLMs:** Self-hosting Llama 3 & Qwen with vLLM, utilizing LoRA and GRPO.
+- 🛡️ **Risk & Fraud Analytics:** Combining DBSCAN, XGBoost, and LLM entity analysis to prevent fraud.
+- 📄 **Document Understanding:** Vision OCR combined with LLM slot-filling for unstructured data.
 
-- 🎉🎉 Added as a contributor on [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI/issues/142#issuecomment-894722347)
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL, PySpark, JavaScript, C++
+- **AI/ML:** RAG, LangChain, Llama 3, Gemini, Qwen, PyTorch, FAISS, vLLM, LoRA, GRPO
+- **Data/Cloud:** GCP (Vertex AI), Azure Data Factory, MySQL, Docker, Flask
+
+
+### 📫 Let's Connect
+- **Portfolio:** [Check out my interactive portfolio and visual guides!](https://github.com/Mysterious-Owl) <!-- Add your hosted link here -->
+- **LinkedIn:** [Tanishq Gupta](https://www.linkedin.com/in/tanishq25gupta/)
+- **Email:** tanishq25gupta@gmail.com
+
+
+#### Some past works
+- Added as a contributor on [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI/issues/142#issuecomment-894722347)
 - Read my [conversation with PySimpleGUI](https://github.com/Mysterious-Owl/color-identification/issues/2) and see if it gives you motivation 
 
-- ⚡ Fun fact:
-  ```
-  Just enjoy your life.....𓅓
-  ```
-<br/>
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysterious-owl&layout=compact" alt="Mysterious-owl" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mysterious-owl&show_icons=true&theme=buefy&count_private=true" alt="Mysterious Owl github stats" />
-</a>
-
-<br />
-<br />
-
-
-## Contact Me ☎️
-
-* Mail me on [Gmail](mailto:mysteriousowl9@gmail.com) 
-* Follow me on  [YouTube](https://www.youtube.com/channel/UCpkxxb7y9nIlUlft5GKTNsg)
-
-Thanks!! ✌️
-
-
-
-
-
-
-<!--
-**Mysterious-Owl/Mysterious-owl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
